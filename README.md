@@ -19,10 +19,10 @@ The dataset includes the following columns:
 - **Year:** The manufacturing year of the car.
 - **Selling_Price:** The selling price of the car (target variable).
 - **Km_Driven:** The total kilometers driven by the car.
-- **Fuel:** Type of fuel used (e.g., Petrol, Diesel, CNG, Electric).
+- **Fuel:** Type of fuel used (e.g., Petrol, Diesel, CNG).
 - **Seller_Type:** Whether the seller is an individual or a dealer.
 - **Transmission:** Type of transmission (Manual/Automatic).
-- **Owner:** Ownership type (e.g., First Owner, Second Owner).
+- **Owner:** Ownership type (e.g., First Owner, Second Owner,Third Owner,Fourth % Above Owner,Test Drive Car).
 - **Mileage:** Fuel efficiency of the car (e.g., km/l or km/kg).
 - **Engine:** Engine capacity in CC.
 - **Max_Power:** Maximum power output of the engine.
